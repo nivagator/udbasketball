@@ -74,15 +74,6 @@
 			</a>
 		</div>
 		{{- end }}
-		{{- with .Site.Params.widgets.social.email2 }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Email" href="mailto:{{ . }}">
-				{{ partial "svg/email.svg" (dict "class" "widget-social__link-icon") }}
-				<span>{{ . }}</span>
-			</a>
-		</div>
-		{{- end }}
-
 		{{ range .Site.Params.widgets.social.custom }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="{{ .title }}" {{ with .rel | default "noopener noreferrer" }} rel="{{ . }}"{{ end }} href="{{ .url }}" target="_blank">
