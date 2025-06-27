@@ -62,3 +62,9 @@ div.motto {
     padding: 15px;
     /* border: 1px solid red; */
 }
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+}
