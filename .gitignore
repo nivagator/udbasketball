@@ -24,4 +24,6 @@ tabs.md
 static/img/*
 
 # gitless scratch files 
-/gitless/
+/zgitless/
+
+themes/mainroad
