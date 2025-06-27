@@ -5,8 +5,8 @@ title = 'Merch'
 
 Contact Coach Williams!   
 
-![logo](/img/merch02.png)
+![logo](/img/merch02.webp)
 ---
-![backpacks](/img/merch01.png)
+![backpacks](/img/merch01.webp)
 ---
-![jerseys](/img/merch03.png)
+![jerseys](/img/merch03.webp)
