@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://udbasketball.net/'
 languageCode = 'en-us'
 title = 'UD Basketball'
 theme = "mainroad"
@@ -37,7 +37,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
   [Params.logo]
-  image = "img/ud-gen-logo.png" # Logo image. Path relative to "static"
+  image = "img/ud-gen-logo.webp" # Logo image. Path relative to "static"
   title = "UD Basketball" # Logo title, otherwise will use site title
   subtitle = "Est. 2023" # Logo subtitle
   # when all odds, all statistics, and all mouths around you say you have no chance. You don’t even blink . The fire inside of you just burns even brighter.
