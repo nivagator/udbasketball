@@ -1,0 +1,27 @@
+<div class="row">
+    <div class="col-5"><img src="/img/coachwilliams.webp" alt=""></div>
+    <div class="col-7">
+        <!-- <h3>Dawon Williams<br>Head Coach</h3><em><a href="mailto:{{ .Site.Params.widgets.social.emailcoach }}">{{ .Site.Params.widgets.social.emailcoach }}</a></em> -->
+        <h3>Dawon Williams<br>Head Coach</h3>
+        <p>Welcome to UD Basketball. My name is Coach Williams. I'm originally from OKC and played basketball at Putnam City North. My dad coached AAU basketball for 30 years.</p>
+        <p>I've been in the Dallas area since 2013 and started coaching basketball at the YMCA in 2021. My kids aged out of the YMCA program which led me to create Underdogs and it has grown from there over the years.</p>
+        <p>We have development recreational and competitive tournament teams located in North Dallas for kids and young men 4th through 11th grade.</p>
+        <p><strong>UD Basketball is about family, teaching morals and a fundamental understanding of team basketball.🏀</strong></p>
+        
+        {{ range .Site.Params.widgets.social.custom }}
+        <div class="widget-social__item widget__item">
+          <a class="widget-social__link widget__link btn" title="{{ .title }}" {{ with .rel | default "noopener noreferrer" }} rel="{{ . }}"{{ end }} href="{{ .url }}" target="_blank">
+            {{- if .icon }}
+              {{ partial .icon (dict "class" "widget-social__link-icon") }}
+            {{- end }}
+            <span>{{ .title }}</span>
+          </a>
+        </div>
+        {{ end }}
+        <br>
+        <br>
+        {{ partial "widgets/motto.html" . }}
+
+        <!-- {{ partial "contact.html" . }} -->
+    </div>
+</div> 
