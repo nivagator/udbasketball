@@ -1,0 +1,42 @@
+<table class="schedule">
+  <tr>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Visitor</th>
+    <th>V</th>
+    <th>Home</th>
+    <th>H</th>
+  </tr>
+  {{ $season := .Get 0 }}
+  {{ $games := index .Site.Data.schedule $season }}
+  {{ range $games }}
+    <tr>
+      <td>{{ .Day }}, {{ .Date }} @ {{ .Time }}</td>
+      <td>{{ .Location }}</td>
+    {{ if in .Visitor "Underdogs" }}
+      <td class="udstrong">
+    {{ else }}
+      <td>
+    {{ end }}
+      {{ .Visitor }}</td>
+    {{ if in .Visitor "Underdogs" }}
+      <td class="udstrong">
+    {{ else }}
+      <td>
+    {{ end }}
+      {{ .V }}</td>
+    {{ if in .Home "Underdogs" }}
+      <td class="udstrong">
+    {{ else }}
+      <td>
+    {{ end }}
+      {{ .Home }}</td>
+    {{ if in .Home "Underdogs" }}
+      <td class="udstrong">
+    {{ else }}
+      <td>
+    {{ end }}
+      {{ .H }}</td>
+    </tr>
+  {{ end }}
+</table>

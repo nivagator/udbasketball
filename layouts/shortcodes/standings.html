@@ -1,0 +1,37 @@
+<table class="standings">
+  <tr>
+      <th class="standings-team">Team</th>
+      <th class="standings-win">Win</th>
+      <th class="standings-loss">Loss</th>
+      <th class="standings-tie">Tie</th>
+      <th class="standings-scored">Scored</th>
+      <th class="standings-allowed">Allowed</th>
+      <th class="standings-diff">Diff</th>
+      <th class="standings-gb">GB</th>
+  </tr>
+  {{ $season := .Get 0 }}
+  {{ $teams := index .Site.Data.standings $season }}
+  {{ $sorted := sort $teams "GB" "asc" }}
+  {{ range $sorted }}
+    {{ if in .Guaranteed "Underdogs" }}
+      <tr class="udstrong">
+    {{ else }}
+      <tr>
+    {{ end }}
+      <td>{{ .Guaranteed }}</td>
+      <td>{{ .Win }}</td>
+      <td>{{ .Loss }}</td>
+      <td>{{ .Tie }}</td>
+      <td>{{ .Scored }}</td>
+      <td>{{ .Allowed }}</td>
+      <td>{{ .Diff }}</td>
+      <td>{{ .GB }}</td>
+    </tr>
+  {{ end }}
+</table>
+
+{{ $sorted := sort $teams "GB" "asc" }}
+{{ range $sorted }}
+  {{ $gb := .GB | float }}
+  <!-- use $gb for numeric display or calculations -->
+{{ end }}
