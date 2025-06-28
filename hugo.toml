@@ -20,7 +20,7 @@ theme = "mainroad"
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Graduate&display=swap" # Load Google Fonts
-  customCSS = ["css/custom.css"] # Include custom CSS files
+  customCSS = ["css/custom.css?v2"] # Include custom CSS files
   # customJS = ["js/custom.js"] # Include custom JS files
 
   # # DEPRECATED PARAMS
@@ -94,6 +94,10 @@ theme = "mainroad"
     name = 'About'
     pageRef = '/about'
     weight = 10
+[[menu.main]]
+    name = 'Schedule'
+    pageRef = '/schedule'
+    weight = 11
 [[menu.main]]
     name = 'Posts'
     pageRef = '/post'
