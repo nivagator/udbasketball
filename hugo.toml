@@ -22,6 +22,7 @@ theme = "mainroad"
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Graduate&display=swap" # Load Google Fonts
   customCSS = ["css/custom.css?v2"] # Include custom CSS files
   # customJS = ["js/custom.js"] # Include custom JS files
+  coachEmail = "dawonw660@gmail.com"
 
   # # DEPRECATED PARAMS
   # subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
@@ -98,6 +99,10 @@ theme = "mainroad"
     name = 'Schedule'
     pageRef = '/schedule'
     weight = 11
+[[menu.main]]
+    name = 'Coaches'
+    pageRef = '/coaches'
+    weight = 12
 [[menu.main]]
     name = 'Posts'
     pageRef = '/post'
