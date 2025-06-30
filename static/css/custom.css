@@ -73,3 +73,58 @@ div.motto {
     font-weight: bold;
     color: #bb4537;
 }
+
+/* standings table */
+table.standings {
+  width: 60%;
+  margin: right;
+  font-size: small;
+}
+
+table.standings th,table.schedule th {
+  color: #ffffff;
+  background: #2a2a2a;
+  border-right: 0px;
+  padding: 3px;
+}
+
+table.standings td {  
+  border-right: 0px;
+  padding: 2px 4px;
+  text-align: center;
+}
+
+td.team-name {
+  text-align: left !important;
+}
+
+table.standings tr:nth-child(odd) {
+    color:#2a2a2a;
+    background: #e3e3e3;
+}
+
+table.standings tr:nth-child(odd) a {
+    color:#ffffff;
+}
+
+table.schedule {
+  width: 100%;
+  margin: auto;
+  font-size: small;
+}
+
+table.schedule td {
+  border-right: 0px;
+  padding: 2px 4px;
+  text-align: left;
+}
+
+.align-right {
+  text-align: right !important;
+}
+.align-center {
+  text-align: center !important;
+}
+.align-left {
+  text-align: left !important;
+}
