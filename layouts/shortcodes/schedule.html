@@ -2,41 +2,49 @@
   <tr>
     <th>Date</th>
     <th>Location</th>
-    <th>Visitor</th>
-    <th>V</th>
-    <th>Home</th>
-    <th>H</th>
+    <th class="align-right">Visitor</th>
+    <th colspan="2">Score</th>
+    <th class="align-left">Home</th>
+    
   </tr>
   {{ $season := .Get 0 }}
   {{ $games := index .Site.Data.schedule $season }}
   {{ range $games }}
+    {{ $homeScore := (.H | default "0") | int }}
+    {{ $visitorScore := (.V | default "0") | int }}
     <tr>
       <td>{{ .Day }}, {{ .Date }} @ {{ .Time }}</td>
       <td>{{ .Location }}</td>
     {{ if in .Visitor "Underdogs" }}
-      <td class="udstrong">
+      <td class="udstrong align-right">
     {{ else }}
-      <td>
+      <td class="align-right">
     {{ end }}
       {{ .Visitor }}</td>
-    {{ if in .Visitor "Underdogs" }}
-      <td class="udstrong">
+
+<!-- visitor score -->
+      <td class="align-center">
+    {{ if gt $visitorScore $homeScore }}
+      <strong>{{ .V }}</strong>
     {{ else }}
-      <td>
+      {{ .V }}
     {{ end }}
-      {{ .V }}</td>
+      </td>
+<!-- home score -->
+      <td class="align-center">
+    {{ if gt $homeScore $visitorScore }}
+      <strong>{{ .H }}</strong>
+    {{ else }}
+      {{ .H }}
+    {{ end }}
+      </td>
+
     {{ if in .Home "Underdogs" }}
       <td class="udstrong">
     {{ else }}
       <td>
     {{ end }}
       {{ .Home }}</td>
-    {{ if in .Home "Underdogs" }}
-      <td class="udstrong">
-    {{ else }}
-      <td>
-    {{ end }}
-      {{ .H }}</td>
     </tr>
   {{ end }}
 </table>
