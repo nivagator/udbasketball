@@ -83,33 +83,33 @@
   ],
   "summer-2025-9th": [
     {
+      "Guaranteed": "DRAGONS",
+      "Win": "4",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "205",
+      "Allowed": "150",
+      "Diff": "55",
+      "GB": "0"
+    },
+    {
       "Guaranteed": "Hawkeyes",
       "Win": "3",
-      "Loss": "0",
+      "Loss": "1",
       "Tie": "0",
-      "Scored": "108",
-      "Allowed": "71",
-      "Diff": "37",
-      "GB": "0"
+      "Scored": "139",
+      "Allowed": "117",
+      "Diff": "22",
+      "GB": "0.5"
     },
     {
       "Guaranteed": "Underdogs (Williams)",
       "Win": "3",
-      "Loss": "1",
+      "Loss": "2",
       "Tie": "0",
-      "Scored": "152",
-      "Allowed": "132",
-      "Diff": "20",
-      "GB": "0.5"
-    },
-    {
-      "Guaranteed": "DRAGONS",
-      "Win": "2",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "107",
-      "Allowed": "82",
-      "Diff": "25",
+      "Scored": "189",
+      "Allowed": "184",
+      "Diff": "5",
       "GB": "1"
     },
     {
