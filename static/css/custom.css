@@ -71,7 +71,7 @@ div.motto {
 
 .udstrong {
     font-weight: bold;
-    color: #bb4537;
+    color: #bb4537 !important;
 }
 
 /* standings table */
