@@ -22,13 +22,13 @@
     },
     {
       "Guaranteed": "House of Hustle",
-      "Win": "2",
+      "Win": "3",
       "Loss": "1",
       "Tie": "0",
-      "Scored": "119",
-      "Allowed": "113",
-      "Diff": "6",
-      "GB": "1.5"
+      "Scored": "152",
+      "Allowed": "131",
+      "Diff": "21",
+      "GB": "1"
     },
     {
       "Guaranteed": "Texas Tar Heels",
@@ -51,34 +51,34 @@
       "GB": "2"
     },
     {
-      "Guaranteed": "TCR Bobcats (Andricks)",
-      "Win": "1",
-      "Loss": "2",
+      "Guaranteed": "NTX Raptors",
+      "Win": "2",
+      "Loss": "3",
       "Tie": "0",
-      "Scored": "110",
-      "Allowed": "122",
-      "Diff": "-12",
+      "Scored": "172",
+      "Allowed": "163",
+      "Diff": "9",
       "GB": "2.5"
     },
     {
-      "Guaranteed": "NTX Raptors",
-      "Win": "0",
-      "Loss": "3",
+      "Guaranteed": "TCR Bobcats (Andricks)",
+      "Win": "1",
+      "Loss": "4",
       "Tie": "0",
-      "Scored": "83",
-      "Allowed": "100",
-      "Diff": "-17",
+      "Scored": "155",
+      "Allowed": "193",
+      "Diff": "-38",
       "GB": "3.5"
     },
     {
       "Guaranteed": "Vegas Fire (Patterson)",
       "Win": "0",
-      "Loss": "3",
+      "Loss": "4",
       "Tie": "0",
-      "Scored": "79",
-      "Allowed": "121",
-      "Diff": "-42",
-      "GB": "3.5"
+      "Scored": "115",
+      "Allowed": "172",
+      "Diff": "-57",
+      "GB": "4"
     }
   ],
   "summer-2025-9th": [
@@ -87,50 +87,50 @@
       "Win": "3",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "160",
-      "Allowed": "126",
-      "Diff": "34",
+      "Scored": "108",
+      "Allowed": "71",
+      "Diff": "37",
       "GB": "0"
     },
     {
       "Guaranteed": "Underdogs (Williams)",
-      "Win": "2",
-      "Loss": "2",
+      "Win": "3",
+      "Loss": "1",
       "Tie": "0",
-      "Scored": "174",
-      "Allowed": "181",
-      "Diff": "-7",
-      "GB": "1.5"
+      "Scored": "152",
+      "Allowed": "132",
+      "Diff": "20",
+      "GB": "0.5"
     },
     {
       "Guaranteed": "DRAGONS",
       "Win": "2",
       "Loss": "1",
       "Tie": "0",
-      "Scored": "139",
-      "Allowed": "115",
-      "Diff": "24",
+      "Scored": "107",
+      "Allowed": "82",
+      "Diff": "25",
       "GB": "1"
     },
     {
       "Guaranteed": "Texas Summit",
       "Win": "1",
-      "Loss": "2",
+      "Loss": "3",
       "Tie": "0",
-      "Scored": "137",
-      "Allowed": "151",
-      "Diff": "-14",
-      "GB": "2"
+      "Scored": "40",
+      "Allowed": "70",
+      "Diff": "-30",
+      "GB": "2.5"
     },
     {
       "Guaranteed": "House of Hustle",
       "Win": "0",
-      "Loss": "3",
+      "Loss": "4",
       "Tie": "0",
-      "Scored": "109",
-      "Allowed": "146",
-      "Diff": "-37",
-      "GB": "3"
+      "Scored": "134",
+      "Allowed": "186",
+      "Diff": "-52",
+      "GB": "3.5"
     }
   ]
 }
