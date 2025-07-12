@@ -2,12 +2,12 @@
   "summer-2025-6th": [
     {
       "Guaranteed": "Golden Hoops (Williams)",
-      "Win": "4",
+      "Win": "5",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "175",
-      "Allowed": "136",
-      "Diff": "39",
+      "Scored": "232",
+      "Allowed": "178",
+      "Diff": "54",
       "GB": "0"
     },
     {
@@ -18,7 +18,7 @@
       "Scored": "140",
       "Allowed": "108",
       "Diff": "32",
-      "GB": "1"
+      "GB": "1.5"
     },
     {
       "Guaranteed": "House of Hustle",
@@ -28,17 +28,7 @@
       "Scored": "152",
       "Allowed": "131",
       "Diff": "21",
-      "GB": "1"
-    },
-    {
-      "Guaranteed": "Texas Tar Heels",
-      "Win": "2",
-      "Loss": "2",
-      "Tie": "0",
-      "Scored": "107",
-      "Allowed": "105",
-      "Diff": "2",
-      "GB": "2"
+      "GB": "1.5"
     },
     {
       "Guaranteed": "Underdogs",
@@ -48,7 +38,7 @@
       "Scored": "125",
       "Allowed": "133",
       "Diff": "-8",
-      "GB": "2"
+      "GB": "2.5"
     },
     {
       "Guaranteed": "NTX Raptors",
@@ -58,7 +48,17 @@
       "Scored": "172",
       "Allowed": "163",
       "Diff": "9",
-      "GB": "2.5"
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "Texas Tar Heels",
+      "Win": "2",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "149",
+      "Allowed": "162",
+      "Diff": "-13",
+      "GB": "3"
     },
     {
       "Guaranteed": "TCR Bobcats (Andricks)",
@@ -68,7 +68,7 @@
       "Scored": "155",
       "Allowed": "193",
       "Diff": "-38",
-      "GB": "3.5"
+      "GB": "4"
     },
     {
       "Guaranteed": "Vegas Fire (Patterson)",
@@ -78,7 +78,7 @@
       "Scored": "115",
       "Allowed": "172",
       "Diff": "-57",
-      "GB": "4"
+      "GB": "4.5"
     }
   ],
   "summer-2025-9th": [
@@ -103,24 +103,24 @@
       "GB": "0.5"
     },
     {
-      "Guaranteed": "Underdogs (Williams)",
-      "Win": "3",
+      "Guaranteed": "Texas Summit",
+      "Win": "2",
       "Loss": "2",
       "Tie": "0",
-      "Scored": "189",
-      "Allowed": "184",
-      "Diff": "5",
-      "GB": "1"
+      "Scored": "89",
+      "Allowed": "92",
+      "Diff": "-3",
+      "GB": "1.5"
     },
     {
-      "Guaranteed": "Texas Summit",
-      "Win": "1",
+      "Guaranteed": "Underdogs (Williams)",
+      "Win": "2",
       "Loss": "3",
       "Tie": "0",
-      "Scored": "40",
-      "Allowed": "70",
-      "Diff": "-30",
-      "GB": "2.5"
+      "Scored": "211",
+      "Allowed": "233",
+      "Diff": "-22",
+      "GB": "2"
     },
     {
       "Guaranteed": "House of Hustle",
