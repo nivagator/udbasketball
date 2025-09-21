@@ -1,3 +1,9 @@
+  {{ $season := .Get 0 }}
+  {{ $standingsFile := .Get 1 | default "standings" }}
+  {{ $teams := index (index .Site.Data $standingsFile) $season }}
+  <!-- {{ $teams := index .Site.Data.standings $season }} -->
+  {{ if $teams }}
+    {{ $sorted := sort $teams "GB" "asc" }}
 <table class="standings">
   <tr>
       <th class="standings-team">Team</th>
@@ -9,29 +15,23 @@
       <th class="standings-diff">Diff</th>
       <th class="standings-gb">GB</th>
   </tr>
-  {{ $season := .Get 0 }}
-  {{ $teams := index .Site.Data.standings $season }}
-  {{ $sorted := sort $teams "GB" "asc" }}
-  {{ range $sorted }}
-    {{ if in .Guaranteed "Underdogs" }}
-      <tr class="udstrong">
-    {{ else }}
-      <tr>
+    {{ range $sorted }}
+      {{ if in .Guaranteed "Underdogs" }}
+        <tr class="udstrong">
+      {{ else }}
+        <tr>
+      {{ end }}
+        <td class="team-name">{{ .Guaranteed }}</td>
+        <td>{{ .Win }}</td>
+        <td>{{ .Loss }}</td>
+        <td>{{ .Tie }}</td>
+        <td>{{ .Scored }}</td>
+        <td>{{ .Allowed }}</td>
+        <td>{{ .Diff }}</td>
+        <td>{{ .GB }}</td>
+      </tr>
     {{ end }}
-      <td class="team-name">{{ .Guaranteed }}</td>
-      <td>{{ .Win }}</td>
-      <td>{{ .Loss }}</td>
-      <td>{{ .Tie }}</td>
-      <td>{{ .Scored }}</td>
-      <td>{{ .Allowed }}</td>
-      <td>{{ .Diff }}</td>
-      <td>{{ .GB }}</td>
-    </tr>
-  {{ end }}
-</table>
-
-{{ $sorted := sort $teams "GB" "asc" }}
-{{ range $sorted }}
-  {{ $gb := .GB | float }}
-  <!-- use $gb for numeric display or calculations -->
+{{ else }}
+  <!-- <p>No teams data found for season {{ $season }} in {{ $standingsFile }}</p> -->
 {{ end }}
+</table>

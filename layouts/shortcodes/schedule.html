@@ -8,7 +8,9 @@
     
   </tr>
   {{ $season := .Get 0 }}
-  {{ $games := index .Site.Data.schedule $season }}
+  {{ $scheduleFile := .Get 1 | default "schedule" }}
+  <!-- {{ $games := index .Site.Data.schedule $season }} -->
+  {{ $games := index (index .Site.Data $scheduleFile) $season }}
   {{ range $games }}
     {{ $homeScore := (.H | default "0") | int }}
     {{ $visitorScore := (.V | default "0") | int }}
