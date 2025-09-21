@@ -2,15 +2,20 @@
 date = '2025-06-27T19:07:19-05:00'
 title = 'Schedule'
 +++
-## Summer 2025  
-### 6th Grade Underdogs  
-[League Link](https://fhusagrapevine.sportspilot.com/Scheduler/Public/report.aspx?contest=1705&header=off&team=20480)
+## Fall 2025  
+### 7th Grade Underdogs
+{{< standings "fall-2025-7th-Black" "standings" >}}
 
-{{< standings "summer-2025-6th" >}}
-{{< schedule "summer-2025-6th" >}}
+#### Black Team Schedule
+[Black League Link](https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1724&team=20681)   
+{{< schedule "fall-2025-7th-Black" >}} 
 
-### 9th Grade Underdogs  
-[League Link](https://fhusagrapevine.sportspilot.com/Scheduler/Public/report.aspx?contest=1709&header=off&team=20481)
+#### Silver Team Schedule
+[Silver League Link](https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1724&team=20682)     
+{{< schedule "fall-2025-7th-Silver" >}}  
 
-{{< standings "summer-2025-9th" >}}
-{{< schedule "summer-2025-9th" >}}
+### High School Underdogs  
+[League Link](https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1723&team=20604)
+
+{{< standings "fall-2025-HS" "stadings-2025-summer" >}}
+{{< schedule "fall-2025-HS" >}}
