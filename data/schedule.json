@@ -19,9 +19,9 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP11",
       "Visitor": "Underdogs Black",
-      "V": "",
+      "V": "48",
       "Home": "Sevens Elite",
-      "H": "",
+      "H": "33",
       "": ""
     },
     {
@@ -44,7 +44,7 @@
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Black",
       "V": "",
-      "Home": "Dribble Drive Green",
+      "Home": "NTX Raptors 2",
       "H": "",
       "": ""
     },
@@ -105,15 +105,15 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Silver",
-      "V": "",
+      "V": "10",
       "Home": "Texas Panthers",
-      "H": "",
+      "H": "25",
       "": ""
     },
     {
       "Event ID": "17240015",
       "Date": "10/12/2025",
-      "Time": "2:00 PM",
+      "Time": "1:00 PM",
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP11",
       "Visitor": "Buffalos",
@@ -140,7 +140,19 @@
       "Time": "10:00 AM",
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
-      "Visitor": "Dribble Drive Green",
+      "Visitor": "NTX Raptors 1",
+      "V": "",
+      "Home": "Underdogs Silver",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240031",
+      "Date": "11/1/2025",
+      "Time": "10:00 AM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "GRINDHOUSE",
       "V": "",
       "Home": "Underdogs Silver",
       "H": "",
@@ -191,9 +203,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP11",
       "Visitor": "Brotherhood United",
-      "V": "",
+      "V": "43",
       "Home": "Underdogs",
-      "H": "",
+      "H": "38",
       "": ""
     },
     {
@@ -203,9 +215,9 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP11",
       "Visitor": "House of Hustle 1",
-      "V": "",
+      "V": "30",
       "Home": "Underdogs",
-      "H": "",
+      "H": "45",
       "": ""
     },
     {
