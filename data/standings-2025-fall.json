@@ -1,0 +1,318 @@
+{
+  "fall-2025-7th-Black": [
+    {
+      "Guaranteed": "Buffalos",
+      "Win": "3",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "122",
+      "Allowed": "82",
+      "Diff": "40",
+      "GB": "0"
+    },
+    {
+      "Guaranteed": "GRINDHOUSE",
+      "Win": "3",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "93",
+      "Allowed": "54",
+      "Diff": "39",
+      "GB": "0"
+    },
+    {
+      "Guaranteed": "Dribble Drive Green",
+      "Win": "2",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "40",
+      "Allowed": "10",
+      "Diff": "30",
+      "GB": "0.5"
+    },
+    {
+      "Guaranteed": "Underdogs Black",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "128",
+      "Allowed": "107",
+      "Diff": "21",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "Texas United",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "103",
+      "Allowed": "83",
+      "Diff": "20",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "Sevens Elite",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "105",
+      "Allowed": "103",
+      "Diff": "2",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "SBA Elite",
+      "Win": "2",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "84",
+      "Allowed": "95",
+      "Diff": "-11",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "NTX Raptors 2",
+      "Win": "1",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "67",
+      "Allowed": "76",
+      "Diff": "-9",
+      "GB": "2"
+    },
+    {
+      "Guaranteed": "Texas Panthers",
+      "Win": "1",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "81",
+      "Allowed": "96",
+      "Diff": "-15",
+      "GB": "2"
+    },
+    {
+      "Guaranteed": "Lee Green Basketball 7th GB",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "75",
+      "Allowed": "102",
+      "Diff": "-27",
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "NTX Raptors 1",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "31",
+      "Allowed": "76",
+      "Diff": "-45",
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "Underdogs Silver",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "43",
+      "Allowed": "88",
+      "Diff": "-45",
+      "GB": "3"
+    }
+  ],
+  "fall-2025-7th-Silver": [
+    {
+      "Guaranteed": "Buffalos",
+      "Win": "3",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "122",
+      "Allowed": "82",
+      "Diff": "40",
+      "GB": "0"
+    },
+    {
+      "Guaranteed": "GRINDHOUSE",
+      "Win": "3",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "93",
+      "Allowed": "54",
+      "Diff": "39",
+      "GB": "0"
+    },
+    {
+      "Guaranteed": "Dribble Drive Green",
+      "Win": "2",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "40",
+      "Allowed": "10",
+      "Diff": "30",
+      "GB": "0.5"
+    },
+    {
+      "Guaranteed": "Underdogs Black",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "128",
+      "Allowed": "107",
+      "Diff": "21",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "Texas United",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "103",
+      "Allowed": "83",
+      "Diff": "20",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "Sevens Elite",
+      "Win": "2",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "105",
+      "Allowed": "103",
+      "Diff": "2",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "SBA Elite",
+      "Win": "2",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "84",
+      "Allowed": "95",
+      "Diff": "-11",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "NTX Raptors 2",
+      "Win": "1",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "67",
+      "Allowed": "76",
+      "Diff": "-9",
+      "GB": "2"
+    },
+    {
+      "Guaranteed": "Texas Panthers",
+      "Win": "1",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "81",
+      "Allowed": "96",
+      "Diff": "-15",
+      "GB": "2"
+    },
+    {
+      "Guaranteed": "Lee Green Basketball 7th GB",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "75",
+      "Allowed": "102",
+      "Diff": "-27",
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "NTX Raptors 1",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "31",
+      "Allowed": "76",
+      "Diff": "-45",
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "Underdogs Silver",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "43",
+      "Allowed": "88",
+      "Diff": "-45",
+      "GB": "3"
+    }
+  ],
+  "fall-2025-HS": [
+    {
+      "Guaranteed": "Brotherhood United",
+      "Win": "4",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "159",
+      "Allowed": "109",
+      "Diff": "50",
+      "GB": "0"
+    },
+    {
+      "Guaranteed": "Crusaders",
+      "Win": "3",
+      "Loss": "0",
+      "Tie": "0",
+      "Scored": "170",
+      "Allowed": "141",
+      "Diff": "29",
+      "GB": "0.5"
+    },
+    {
+      "Guaranteed": "Brown Bandits",
+      "Win": "3",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "198",
+      "Allowed": "166",
+      "Diff": "32",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "House of Hustle 1",
+      "Win": "1",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "67",
+      "Allowed": "82",
+      "Diff": "-15",
+      "GB": "2.5"
+    },
+    {
+      "Guaranteed": "Underdogs",
+      "Win": "1",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "130",
+      "Allowed": "141",
+      "Diff": "-11",
+      "GB": "3"
+    },
+    {
+      "Guaranteed": "Lee Green Basketball 10GB",
+      "Win": "1",
+      "Loss": "4",
+      "Tie": "0",
+      "Scored": "232",
+      "Allowed": "275",
+      "Diff": "-43",
+      "GB": "3.5"
+    },
+    {
+      "Guaranteed": "House of Hustle 2",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "77",
+      "Allowed": "119",
+      "Diff": "-42",
+      "GB": "3.5"
+    }
+  ]
+}

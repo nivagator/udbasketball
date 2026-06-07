@@ -1,0 +1,272 @@
+{
+  "fall-2025-7th-Black": [
+    {
+      "Event ID": "17240002",
+      "Date": "9/21/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "GRINDHOUSE",
+      "V": "37",
+      "Home": "Underdogs Black",
+      "H": "28",
+      "": ""
+    },
+    {
+      "Event ID": "17240007",
+      "Date": "9/28/2025",
+      "Time": "2:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Underdogs Black",
+      "V": "48",
+      "Home": "Sevens Elite",
+      "H": "33",
+      "": ""
+    },
+    {
+      "Event ID": "17240018",
+      "Date": "10/12/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Lee Green Basketball 7th GB",
+      "V": "37",
+      "Home": "Underdogs Black",
+      "H": "52",
+      "": ""
+    },
+    {
+      "Event ID": "17240023",
+      "Date": "10/18/2025",
+      "Time": "3:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Black",
+      "V": "",
+      "Home": "NTX Raptors 2",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240028",
+      "Date": "10/25/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Texas Panthers",
+      "V": "",
+      "Home": "Underdogs Black",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240033",
+      "Date": "11/1/2025",
+      "Time": "12:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Black",
+      "V": "",
+      "Home": "Texas United",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240038",
+      "Date": "11/16/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Silver",
+      "V": "",
+      "Home": "Underdogs Black",
+      "H": "",
+      "": ""
+    }
+  ],
+  "fall-2025-7th-Silver": [
+    {
+      "Event ID": "17240005",
+      "Date": "9/20/2025",
+      "Time": "3:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Texas United",
+      "V": "25",
+      "Home": "Underdogs Silver",
+      "H": "10",
+      "": ""
+    },
+    {
+      "Event ID": "17240010",
+      "Date": "9/28/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Silver",
+      "V": "10",
+      "Home": "Texas Panthers",
+      "H": "25",
+      "": ""
+    },
+    {
+      "Event ID": "17240015",
+      "Date": "10/12/2025",
+      "Time": "1:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Buffalos",
+      "V": "38",
+      "Home": "Underdogs Silver",
+      "H": "23",
+      "": ""
+    },
+    {
+      "Event ID": "17240020",
+      "Date": "10/19/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Silver",
+      "V": "",
+      "Home": "SBA Elite",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240025",
+      "Date": "10/25/2025",
+      "Time": "10:00 AM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "NTX Raptors 1",
+      "V": "",
+      "Home": "Underdogs Silver",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240031",
+      "Date": "11/1/2025",
+      "Time": "10:00 AM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "GRINDHOUSE",
+      "V": "",
+      "Home": "Underdogs Silver",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240034",
+      "Date": "11/1/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "NTX Raptors 2",
+      "V": "",
+      "Home": "Underdogs Silver",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17240038",
+      "Date": "11/16/2025",
+      "Time": "12:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs Silver",
+      "V": "",
+      "Home": "Underdogs Black",
+      "H": "",
+      "": ""
+    }
+  ],
+  "fall-2025-HS": [
+    {
+      "Event ID": "17230001",
+      "Date": "9/20/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Underdogs",
+      "V": "0",
+      "Home": "House of Hustle 1",
+      "H": "15",
+      "": ""
+    },
+    {
+      "Event ID": "17230004",
+      "Date": "9/27/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Brotherhood United",
+      "V": "43",
+      "Home": "Underdogs",
+      "H": "38",
+      "": ""
+    },
+    {
+      "Event ID": "17230024",
+      "Date": "10/5/2025",
+      "Time": "2:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "House of Hustle 1",
+      "V": "30",
+      "Home": "Underdogs",
+      "H": "45",
+      "": ""
+    },
+    {
+      "Event ID": "17230007",
+      "Date": "10/11/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Underdogs",
+      "V": "47",
+      "Home": "Brown Bandits",
+      "H": "53",
+      "": ""
+    },
+    {
+      "Event ID": "17230014",
+      "Date": "10/26/2025",
+      "Time": "3:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs",
+      "V": "",
+      "Home": "Lee Green Basketball 10GB",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17230017",
+      "Date": "11/2/2025",
+      "Time": "3:00 PM",
+      "Day": "Sun",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Crusaders",
+      "V": "",
+      "Home": "Underdogs",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17230021",
+      "Date": "11/15/2025",
+      "Time": "4:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "House of Hustle 2",
+      "V": "",
+      "Home": "Underdogs",
+      "H": "",
+      "": ""
+    }
+  ]
+}
