@@ -1,3 +1,4 @@
+  {{ $udTeams := slice "Underdogs" "Underdawgs" "UD Basketball" "UD Way" "Underdogs (Williams)" "Underdogs Black" "Underdogs Silver"}}
   {{ $season := .Get 0 }}
   {{ $standingsFile := .Get 1 | default "standings" }}
   {{ $teams := index (index .Site.Data $standingsFile) $season }}
@@ -16,7 +17,7 @@
       <th class="standings-gb">GB</th>
   </tr>
     {{ range $sorted }}
-      {{ if in .Guaranteed "Underdogs" }}
+      {{ if in $udTeams .Guaranteed }}
         <tr class="udstrong">
       {{ else }}
         <tr>

@@ -10,6 +10,7 @@
   {{ $season := .Get 0 }}
   {{ $scheduleFile := .Get 1 | default "schedule" }}
   <!-- {{ $games := index .Site.Data.schedule $season }} -->
+  {{ $udTeams := slice "Underdogs" "Underdawgs" "UD Basketball" "UD Way" "Underdogs (Williams)" "Underdogs Black" "Underdogs Silver"}}
   {{ $games := index (index .Site.Data $scheduleFile) $season }}
   {{ range $games }}
     {{ $homeScore := (.H | default "0") | int }}
@@ -17,7 +18,7 @@
     <tr>
       <td>{{ .Day }}, {{ .Date }} @ {{ .Time }}</td>
       <td>{{ .Location }}</td>
-    {{ if in .Visitor "Underdogs" }}
+    {{ if in $udTeams .Visitor }}
       <td class="udstrong align-right">
     {{ else }}
       <td class="align-right">
@@ -41,7 +42,7 @@
     {{ end }}
       </td>
 
-    {{ if in .Home "Underdogs" }}
+    {{ if in $udTeams .Home }}
       <td class="udstrong">
     {{ else }}
       <td>
