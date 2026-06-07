@@ -5,26 +5,30 @@ from bs4 import BeautifulSoup
 
 # URLs and their associated output file names and table IDs
 targets = [
+    {
+        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1730&header=off&team=20731",
+        "grade": "4th"
+    },
+    {
+        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1735&header=off&team=20746",
+        "grade": "6th"
+    },
+    {
+        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1736&header=off&team=20750",
+        "grade": "7th"  
+    }
     # {
-    #     "url": "https://fhusagrapevine.sportspilot.com/Scheduler/Public/report.aspx?contest=1705&header=off&team=20480",
-    #     "grade": "6th"
+    #     "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1724&header=off&team=20682",
+    #     "grade": "7th-Silver"  
     # },
     # {
     #     "url": "https://fhusagrapevine.sportspilot.com/Scheduler/Public/report.aspx?contest=1709&header=off&team=20481",
-    #     "grade": "9th"
+    #     "grade": "8th"
     # },
-    {
-        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1724&header=off&team=20681",
-        "grade": "7th-Black"  
-    },
-    {
-        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1724&header=off&team=20682",
-        "grade": "7th-Silver"  
-    },
-    {
-        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1723&header=off&team=20604",
-        "grade": "HS"  
-    }
+#     {
+#         "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1723&header=off&team=20604",
+#         "grade": "HS"  
+#     }
 ]
 
 # Table IDs and output file name templates
@@ -64,7 +68,7 @@ def main():
         for info in table_info:
             table = soup.find("table", id=info["id"])
             if table:
-                outname = f"fall-2025-{target['grade']}-{info['suffix']}.html"
+                outname = f"summer-2026-{target['grade']}-{info['suffix']}.html"
                 save_table_as_html(table, outname)
             else:
                 print(f"Table with id {info['id']} not found for {target['grade']} grade.")

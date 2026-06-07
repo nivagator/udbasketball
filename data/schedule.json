@@ -1,4 +1,322 @@
 {
+  "summer-2026-4th": [
+    {
+      "Event ID": "17300002",
+      "Date": "6/9/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "Mavs",
+      "V": "",
+      "Home": "UD Way",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300005",
+      "Date": "6/16/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "Stealth Bombers 2034 - Red",
+      "V": "",
+      "Home": "UD Way",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300009",
+      "Date": "6/23/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP07",
+      "Visitor": "UD Way",
+      "V": "",
+      "Home": "Prime 4th Black",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300011",
+      "Date": "6/30/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "Prime 4th Gold",
+      "V": "",
+      "Home": "UD Way",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300015",
+      "Date": "7/7/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP07",
+      "Visitor": "UD Way",
+      "V": "",
+      "Home": "Sevens Elite",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300018",
+      "Date": "7/14/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP07",
+      "Visitor": "UD Way",
+      "V": "",
+      "Home": "Mavs",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300021",
+      "Date": "7/28/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP07",
+      "Visitor": "UD Way",
+      "V": "",
+      "Home": "Stealth Bombers 2034 - Red",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17300022",
+      "Date": "8/4/2026",
+      "Time": "7:00 PM",
+      "End": "8:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "Prime 4th Black",
+      "V": "",
+      "Home": "UD Way",
+      "H": "",
+      "": ""
+    }
+  ],
+  "summer-2026-6th": [
+    {
+      "Event ID": "17350003",
+      "Date": "6/11/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "Sevens Elite",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350006",
+      "Date": "6/18/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Buckets",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350009",
+      "Date": "6/25/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "BTB All Stars",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350026",
+      "Date": "6/25/2026",
+      "Time": "9:00 PM",
+      "End": "10:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "Buckets",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350012",
+      "Date": "7/2/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP01",
+      "Visitor": "Prime Hoops 6th Black",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350014",
+      "Date": "7/9/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "NTX Raptors",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350020",
+      "Date": "7/30/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Prime Hoops 6th Gold",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17350023",
+      "Date": "8/6/2026",
+      "Time": "6:00 PM",
+      "End": "7:00 PM",
+      "Day": "Thu",
+      "Location": "Fieldhouse Grapevine / GP04",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Sevens Elite",
+      "H": "",
+      "": ""
+    }
+  ],
+  "summer-2026-7th": [
+    {
+      "Event ID": "17360002",
+      "Date": "6/9/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Keller Mavs",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360017",
+      "Date": "6/16/2026",
+      "Time": "6:00 PM",
+      "End": "7:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP12",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Prime Hoops",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360003",
+      "Date": "6/16/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "BTB All Stars",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360020",
+      "Date": "6/23/2026",
+      "Time": "6:00 PM",
+      "End": "7:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP12",
+      "Visitor": "UD Basketball",
+      "V": "",
+      "Home": "Sevens Elite",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360008",
+      "Date": "6/30/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "Prime Hoops",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360009",
+      "Date": "7/7/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Sevens Elite",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360011",
+      "Date": "7/14/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Keller Mavs",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    },
+    {
+      "Event ID": "17360014",
+      "Date": "7/28/2026",
+      "Time": "8:00 PM",
+      "End": "9:00 PM",
+      "Day": "Tue",
+      "Location": "Fieldhouse Grapevine / GP11",
+      "Visitor": "BTB All Stars",
+      "V": "",
+      "Home": "UD Basketball",
+      "H": "",
+      "": ""
+    }
+  ],
   "fall-2025-7th-Black": [
     {
       "Event ID": "17240002",
@@ -43,9 +361,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Black",
-      "V": "",
+      "V": "33",
       "Home": "NTX Raptors 2",
-      "H": "",
+      "H": "18",
       "": ""
     },
     {
@@ -55,9 +373,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Texas Panthers",
-      "V": "",
+      "V": "6",
       "Home": "Underdogs Black",
-      "H": "",
+      "H": "21",
       "": ""
     },
     {
@@ -67,9 +385,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Black",
-      "V": "",
+      "V": "41",
       "Home": "Texas United",
-      "H": "",
+      "H": "37",
       "": ""
     },
     {
@@ -79,9 +397,21 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Silver",
-      "V": "",
+      "V": "52",
       "Home": "Underdogs Black",
-      "H": "",
+      "H": "61",
+      "": ""
+    },
+    {
+      "Event ID": "17240044",
+      "Date": "11/22/2025",
+      "Time": "1:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP12",
+      "Visitor": "Underdogs Black",
+      "V": "32",
+      "Home": "GRINDHOUSE",
+      "H": "36",
       "": ""
     }
   ],
@@ -129,9 +459,9 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Silver",
-      "V": "",
+      "V": "29",
       "Home": "SBA Elite",
-      "H": "",
+      "H": "27",
       "": ""
     },
     {
@@ -141,9 +471,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "NTX Raptors 1",
-      "V": "",
+      "V": "33",
       "Home": "Underdogs Silver",
-      "H": "",
+      "H": "18",
       "": ""
     },
     {
@@ -153,9 +483,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "GRINDHOUSE",
-      "V": "",
+      "V": "21",
       "Home": "Underdogs Silver",
-      "H": "",
+      "H": "6",
       "": ""
     },
     {
@@ -165,9 +495,9 @@
       "Day": "Sat",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "NTX Raptors 2",
-      "V": "",
+      "V": "31",
       "Home": "Underdogs Silver",
-      "H": "",
+      "H": "24",
       "": ""
     },
     {
@@ -177,9 +507,21 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs Silver",
-      "V": "",
+      "V": "52",
       "Home": "Underdogs Black",
-      "H": "",
+      "H": "61",
+      "": ""
+    },
+    {
+      "Event ID": "17240049",
+      "Date": "11/22/2025",
+      "Time": "12:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP12",
+      "Visitor": "NTX Raptors 1",
+      "V": "0",
+      "Home": "Underdogs Silver",
+      "H": "15",
       "": ""
     }
   ],
@@ -239,9 +581,9 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Underdogs",
-      "V": "",
+      "V": "46",
       "Home": "Lee Green Basketball 10GB",
-      "H": "",
+      "H": "31",
       "": ""
     },
     {
@@ -251,9 +593,9 @@
       "Day": "Sun",
       "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "Crusaders",
-      "V": "",
+      "V": "30",
       "Home": "Underdogs",
-      "H": "",
+      "H": "43",
       "": ""
     },
     {
@@ -261,11 +603,35 @@
       "Date": "11/15/2025",
       "Time": "4:00 PM",
       "Day": "Sat",
-      "Location": "Fieldhouse Grapevine / GP11",
+      "Location": "Fieldhouse Grapevine / GP10",
       "Visitor": "House of Hustle 2",
-      "V": "",
+      "V": "30",
       "Home": "Underdogs",
-      "H": "",
+      "H": "45",
+      "": ""
+    },
+    {
+      "Event ID": "17230027",
+      "Date": "11/22/2025",
+      "Time": "3:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP12",
+      "Visitor": "Underdogs",
+      "V": "55",
+      "Home": "Brown Bandits",
+      "H": "53",
+      "": ""
+    },
+    {
+      "Event ID": "17230028",
+      "Date": "11/22/2025",
+      "Time": "5:00 PM",
+      "Day": "Sat",
+      "Location": "Fieldhouse Grapevine / GP10",
+      "Visitor": "Underdogs",
+      "V": "47",
+      "Home": "Brotherhood United",
+      "H": "48",
       "": ""
     }
   ]
