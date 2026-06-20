@@ -1,534 +1,188 @@
 {
-  "summer-2026-4th": [
+  "summer-2026-5th": [
     {
-      "Guaranteed": "Prime 4th Black",
-      "Win": "0",
+      "Guaranteed": "NTX Raptors Black",
+      "Win": "2",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
+      "Scored": "51",
+      "Allowed": "21",
+      "Diff": "30",
       "GB": "0"
     },
     {
-      "Guaranteed": "Mavs",
-      "Win": "0",
+      "Guaranteed": "Monsters",
+      "Win": "2",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Prime 4th Gold",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Stealth Bombers 2034 - Red",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Sevens Elite",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
+      "Scored": "65",
+      "Allowed": "40",
+      "Diff": "25",
       "GB": "0"
     },
     {
       "Guaranteed": "UD Way",
       "Win": "0",
-      "Loss": "0",
+      "Loss": "1",
+      "Tie": "1",
+      "Scored": "15",
+      "Allowed": "30",
+      "Diff": "-15",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "NTX Raptors Red",
+      "Win": "0",
+      "Loss": "1",
+      "Tie": "1",
+      "Scored": "16",
+      "Allowed": "31",
+      "Diff": "-15",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "Goats",
+      "Win": "0",
+      "Loss": "1",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
+      "Scored": "24",
+      "Allowed": "34",
+      "Diff": "-10",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "Keller Mavs",
+      "Win": "0",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "6",
+      "Allowed": "21",
+      "Diff": "-15",
+      "GB": "1.5"
     }
   ],
   "summer-2026-6th": [
     {
-      "Guaranteed": "UD Basketball",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Prime Hoops 6th Black",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
       "Guaranteed": "Buckets",
-      "Win": "0",
+      "Win": "2",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Sevens Elite",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "NTX Raptors",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "BTB All Stars",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
+      "Scored": "57",
+      "Allowed": "27",
+      "Diff": "30",
       "GB": "0"
     },
     {
       "Guaranteed": "Prime Hoops 6th Gold",
-      "Win": "0",
+      "Win": "2",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
+      "Scored": "69",
+      "Allowed": "48",
+      "Diff": "21",
       "GB": "0"
+    },
+    {
+      "Guaranteed": "Sevens Elite",
+      "Win": "1",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "40",
+      "Allowed": "31",
+      "Diff": "9",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "Prime Hoops 6th Black",
+      "Win": "1",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "42",
+      "Allowed": "42",
+      "Diff": "0",
+      "GB": "1"
+    },
+    {
+      "Guaranteed": "BTB All Stars",
+      "Win": "0",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "0",
+      "Allowed": "15",
+      "Diff": "-15",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "NTX Raptors",
+      "Win": "0",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "23",
+      "Allowed": "38",
+      "Diff": "-15",
+      "GB": "1.5"
+    },
+    {
+      "Guaranteed": "UD Basketball",
+      "Win": "0",
+      "Loss": "2",
+      "Tie": "0",
+      "Scored": "0",
+      "Allowed": "30",
+      "Diff": "-30",
+      "GB": "2"
     }
   ],
   "summer-2026-7th": [
     {
       "Guaranteed": "Sevens Elite",
-      "Win": "0",
+      "Win": "1",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "BTB All Stars",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
+      "Scored": "52",
+      "Allowed": "37",
+      "Diff": "15",
       "GB": "0"
     },
     {
       "Guaranteed": "Prime Hoops",
+      "Win": "1",
+      "Loss": "1",
+      "Tie": "0",
+      "Scored": "36",
+      "Allowed": "27",
+      "Diff": "9",
+      "GB": "0.5"
+    },
+    {
+      "Guaranteed": "BTB All Stars",
       "Win": "0",
-      "Loss": "0",
+      "Loss": "1",
       "Tie": "0",
       "Scored": "0",
       "Allowed": "0",
       "Diff": "0",
-      "GB": "0"
+      "GB": "1"
     },
     {
       "Guaranteed": "UD Basketball",
       "Win": "0",
-      "Loss": "0",
+      "Loss": "2",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
+      "Scored": "27",
+      "Allowed": "36",
+      "Diff": "-9",
+      "GB": "1.5"
     },
     {
       "Guaranteed": "Keller Mavs",
       "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "0"
-    }
-  ],
-  "fall-2025-7th-Black": [
-    {
-      "Guaranteed": "Buffalos",
-      "Win": "8",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "266",
-      "Allowed": "163",
-      "Diff": "103",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "GRINDHOUSE",
-      "Win": "6",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "219",
-      "Allowed": "142",
-      "Diff": "77",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "Underdogs Black",
-      "Win": "6",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "284",
-      "Allowed": "220",
-      "Diff": "64",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "Sevens Elite",
-      "Win": "5",
       "Loss": "2",
       "Tie": "0",
-      "Scored": "227",
-      "Allowed": "186",
-      "Diff": "41",
-      "GB": "2.5"
-    },
-    {
-      "Guaranteed": "Texas United",
-      "Win": "4",
-      "Loss": "4",
-      "Tie": "0",
-      "Scored": "230",
-      "Allowed": "207",
-      "Diff": "23",
-      "GB": "4"
-    },
-    {
-      "Guaranteed": "SBA Elite",
-      "Win": "4",
-      "Loss": "6",
-      "Tie": "0",
-      "Scored": "169",
-      "Allowed": "189",
-      "Diff": "-20",
-      "GB": "5"
-    },
-    {
-      "Guaranteed": "Texas Panthers",
-      "Win": "3",
-      "Loss": "5",
-      "Tie": "0",
-      "Scored": "160",
-      "Allowed": "188",
-      "Diff": "-28",
-      "GB": "5"
-    },
-    {
-      "Guaranteed": "NTX Raptors 2",
-      "Win": "3",
-      "Loss": "6",
-      "Tie": "0",
-      "Scored": "193",
-      "Allowed": "230",
-      "Diff": "-37",
-      "GB": "5.5"
-    },
-    {
-      "Guaranteed": "Underdogs Silver",
-      "Win": "2",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "187",
-      "Allowed": "261",
-      "Diff": "-74",
-      "GB": "6.5"
-    },
-    {
-      "Guaranteed": "Lee Green Basketball 7th GB",
-      "Win": "1",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "143",
-      "Allowed": "228",
-      "Diff": "-85",
-      "GB": "7"
-    },
-    {
-      "Guaranteed": "NTX Raptors 1",
-      "Win": "1",
-      "Loss": "8",
-      "Tie": "0",
-      "Scored": "143",
-      "Allowed": "237",
-      "Diff": "-94",
-      "GB": "7.5"
-    },
-    {
-      "Guaranteed": "$1",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "4"
-    },
-    {
-      "Guaranteed": "Winner of #17240046",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "4"
-    }
-  ],
-  "fall-2025-7th-Silver": [
-    {
-      "Guaranteed": "Buffalos",
-      "Win": "8",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "266",
-      "Allowed": "163",
-      "Diff": "103",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "GRINDHOUSE",
-      "Win": "6",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "219",
-      "Allowed": "142",
-      "Diff": "77",
+      "Scored": "37",
+      "Allowed": "52",
+      "Diff": "-15",
       "GB": "1.5"
-    },
-    {
-      "Guaranteed": "Underdogs Black",
-      "Win": "6",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "284",
-      "Allowed": "220",
-      "Diff": "64",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "Sevens Elite",
-      "Win": "5",
-      "Loss": "2",
-      "Tie": "0",
-      "Scored": "227",
-      "Allowed": "186",
-      "Diff": "41",
-      "GB": "2.5"
-    },
-    {
-      "Guaranteed": "Texas United",
-      "Win": "4",
-      "Loss": "4",
-      "Tie": "0",
-      "Scored": "230",
-      "Allowed": "207",
-      "Diff": "23",
-      "GB": "4"
-    },
-    {
-      "Guaranteed": "SBA Elite",
-      "Win": "4",
-      "Loss": "6",
-      "Tie": "0",
-      "Scored": "169",
-      "Allowed": "189",
-      "Diff": "-20",
-      "GB": "5"
-    },
-    {
-      "Guaranteed": "Texas Panthers",
-      "Win": "3",
-      "Loss": "5",
-      "Tie": "0",
-      "Scored": "160",
-      "Allowed": "188",
-      "Diff": "-28",
-      "GB": "5"
-    },
-    {
-      "Guaranteed": "NTX Raptors 2",
-      "Win": "3",
-      "Loss": "6",
-      "Tie": "0",
-      "Scored": "193",
-      "Allowed": "230",
-      "Diff": "-37",
-      "GB": "5.5"
-    },
-    {
-      "Guaranteed": "Underdogs Silver",
-      "Win": "2",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "187",
-      "Allowed": "261",
-      "Diff": "-74",
-      "GB": "6.5"
-    },
-    {
-      "Guaranteed": "Lee Green Basketball 7th GB",
-      "Win": "1",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "143",
-      "Allowed": "228",
-      "Diff": "-85",
-      "GB": "7"
-    },
-    {
-      "Guaranteed": "NTX Raptors 1",
-      "Win": "1",
-      "Loss": "8",
-      "Tie": "0",
-      "Scored": "143",
-      "Allowed": "237",
-      "Diff": "-94",
-      "GB": "7.5"
-    },
-    {
-      "Guaranteed": "$1",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "4"
-    },
-    {
-      "Guaranteed": "Winner of #17240046",
-      "Win": "0",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "4"
-    }
-  ],
-  "fall-2025-HS": [
-    {
-      "Guaranteed": "Brotherhood United",
-      "Win": "7",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "275",
-      "Allowed": "180",
-      "Diff": "95",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Brown Bandits",
-      "Win": "5",
-      "Loss": "2",
-      "Tie": "0",
-      "Scored": "326",
-      "Allowed": "291",
-      "Diff": "35",
-      "GB": "2"
-    },
-    {
-      "Guaranteed": "Underdogs",
-      "Win": "4",
-      "Loss": "3",
-      "Tie": "0",
-      "Scored": "264",
-      "Allowed": "232",
-      "Diff": "32",
-      "GB": "3"
-    },
-    {
-      "Guaranteed": "Crusaders",
-      "Win": "4",
-      "Loss": "3",
-      "Tie": "0",
-      "Scored": "316",
-      "Allowed": "304",
-      "Diff": "12",
-      "GB": "3"
-    },
-    {
-      "Guaranteed": "House of Hustle 1",
-      "Win": "2",
-      "Loss": "6",
-      "Tie": "0",
-      "Scored": "148",
-      "Allowed": "192",
-      "Diff": "-44",
-      "GB": "5.5"
-    },
-    {
-      "Guaranteed": "Lee Green Basketball 10GB",
-      "Win": "2",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "304",
-      "Allowed": "362",
-      "Diff": "-58",
-      "GB": "6"
-    },
-    {
-      "Guaranteed": "House of Hustle 2",
-      "Win": "1",
-      "Loss": "7",
-      "Tie": "0",
-      "Scored": "205",
-      "Allowed": "277",
-      "Diff": "-72",
-      "GB": "6.5"
-    },
-    {
-      "Guaranteed": "Winner of #17230029",
-      "Win": "0",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "0",
-      "Diff": "0",
-      "GB": "4"
     }
   ]
 }
