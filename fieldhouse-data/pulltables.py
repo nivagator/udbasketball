@@ -5,9 +5,13 @@ from bs4 import BeautifulSoup
 
 # URLs and their associated output file names and table IDs
 targets = [
+    # {
+    #     "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1730&header=off&team=20731",
+    #     "grade": "4th"
+    # },
     {
-        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1730&header=off&team=20731",
-        "grade": "4th"
+        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1734&header=off&team=20781",
+        "grade": "5th"
     },
     {
         "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1735&header=off&team=20746",

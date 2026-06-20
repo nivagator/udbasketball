@@ -11,7 +11,7 @@ def sanitize_row(row_dict):
     sanitized = {}
     for k, v in row_dict.items():
         val = v.replace('*', '').strip()
-        if val == "NA":
+        if val in ("NA", "Postponed" , "Forfeit"):
             val = ""
         sanitized[k] = val
     return sanitized
