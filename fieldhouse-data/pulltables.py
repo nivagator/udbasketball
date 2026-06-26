@@ -13,10 +13,10 @@ targets = [
         "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1734&header=off&team=20781",
         "grade": "5th"
     },
-    {
-        "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1735&header=off&team=20746",
-        "grade": "6th"
-    },
+    # {
+    #     "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1735&header=off&team=20746",
+    #     "grade": "6th"
+    # },
     {
         "url": "https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1736&header=off&team=20750",
         "grade": "7th"  
