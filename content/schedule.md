@@ -10,12 +10,6 @@ title = 'Schedule'
 {{< standings "summer-2026-5th" "standings" >}}  
 {{< schedule "summer-2026-5th" >}}  
 
-### 6th Grade Underdogs
-[League Link](https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1735&header=off&team=20746)     
-
-{{< standings "summer-2026-6th" "standings" >}}  
-{{< schedule "summer-2026-6th" >}}  
-
 ### 7th Grade Underdogs
 [League Link](https://fhusagrapevine.sportspilot.com/Scheduler/public/report.aspx?contest=1736&header=off&team=20750)     
 
