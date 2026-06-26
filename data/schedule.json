@@ -34,9 +34,9 @@
       "Day": "Thu",
       "Location": "Fieldhouse Grapevine / GP07",
       "Visitor": "Monsters",
-      "V": "",
+      "V": "25",
       "Home": "UD Way",
-      "H": "",
+      "H": "10",
       "": ""
     },
     {
@@ -105,112 +105,6 @@
       "": ""
     }
   ],
-  "summer-2026-6th": [
-    {
-      "Event ID": "17350003",
-      "Date": "6/11/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP07",
-      "Visitor": "Sevens Elite",
-      "V": "15",
-      "Home": "UD Basketball",
-      "H": "0",
-      "": ""
-    },
-    {
-      "Event ID": "17350006",
-      "Date": "6/18/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP07",
-      "Visitor": "UD Basketball",
-      "V": "0",
-      "Home": "Buckets",
-      "H": "15",
-      "": ""
-    },
-    {
-      "Event ID": "17350009",
-      "Date": "6/25/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP07",
-      "Visitor": "UD Basketball",
-      "V": "",
-      "Home": "BTB All Stars",
-      "H": "",
-      "": ""
-    },
-    {
-      "Event ID": "17350026",
-      "Date": "6/25/2026",
-      "Time": "9:00 PM",
-      "End": "10:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP07",
-      "Visitor": "Buckets",
-      "V": "",
-      "Home": "UD Basketball",
-      "H": "",
-      "": ""
-    },
-    {
-      "Event ID": "17350012",
-      "Date": "7/2/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP01",
-      "Visitor": "Prime Hoops 6th Black",
-      "V": "",
-      "Home": "UD Basketball",
-      "H": "",
-      "": ""
-    },
-    {
-      "Event ID": "17350014",
-      "Date": "7/9/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP04",
-      "Visitor": "NTX Raptors",
-      "V": "",
-      "Home": "UD Basketball",
-      "H": "",
-      "": ""
-    },
-    {
-      "Event ID": "17350020",
-      "Date": "7/30/2026",
-      "Time": "8:00 PM",
-      "End": "9:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP04",
-      "Visitor": "UD Basketball",
-      "V": "",
-      "Home": "Prime Hoops 6th Gold",
-      "H": "",
-      "": ""
-    },
-    {
-      "Event ID": "17350023",
-      "Date": "8/6/2026",
-      "Time": "6:00 PM",
-      "End": "7:00 PM",
-      "Day": "Thu",
-      "Location": "Fieldhouse Grapevine / GP04",
-      "Visitor": "UD Basketball",
-      "V": "",
-      "Home": "Sevens Elite",
-      "H": "",
-      "": ""
-    }
-  ],
   "summer-2026-7th": [
     {
       "Event ID": "17360002",
@@ -259,9 +153,9 @@
       "Day": "Tue",
       "Location": "Fieldhouse Grapevine / GP11",
       "Visitor": "UD Basketball",
-      "V": "",
+      "V": "17",
       "Home": "Sevens Elite",
-      "H": "",
+      "H": "32",
       "": ""
     },
     {

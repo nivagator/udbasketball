@@ -2,157 +2,85 @@
   "summer-2026-5th": [
     {
       "Guaranteed": "NTX Raptors Black",
-      "Win": "2",
+      "Win": "3",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "51",
-      "Allowed": "21",
-      "Diff": "30",
+      "Scored": "75",
+      "Allowed": "30",
+      "Diff": "45",
       "GB": "0"
     },
     {
       "Guaranteed": "Monsters",
-      "Win": "2",
+      "Win": "3",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "65",
-      "Allowed": "40",
-      "Diff": "25",
+      "Scored": "90",
+      "Allowed": "50",
+      "Diff": "40",
       "GB": "0"
+    },
+    {
+      "Guaranteed": "NTX Raptors Red",
+      "Win": "1",
+      "Loss": "1",
+      "Tie": "1",
+      "Scored": "31",
+      "Allowed": "42",
+      "Diff": "-11",
+      "GB": "1.5"
     },
     {
       "Guaranteed": "UD Way",
       "Win": "0",
-      "Loss": "1",
+      "Loss": "2",
       "Tie": "1",
-      "Scored": "15",
-      "Allowed": "30",
-      "Diff": "-15",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "NTX Raptors Red",
-      "Win": "0",
-      "Loss": "1",
-      "Tie": "1",
-      "Scored": "16",
-      "Allowed": "31",
-      "Diff": "-15",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "Goats",
-      "Win": "0",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "24",
-      "Allowed": "34",
-      "Diff": "-10",
-      "GB": "1.5"
+      "Scored": "25",
+      "Allowed": "55",
+      "Diff": "-30",
+      "GB": "2.5"
     },
     {
       "Guaranteed": "Keller Mavs",
       "Win": "0",
-      "Loss": "1",
+      "Loss": "2",
       "Tie": "0",
-      "Scored": "6",
-      "Allowed": "21",
-      "Diff": "-15",
-      "GB": "1.5"
-    }
-  ],
-  "summer-2026-6th": [
-    {
-      "Guaranteed": "Buckets",
-      "Win": "2",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "57",
-      "Allowed": "27",
-      "Diff": "30",
-      "GB": "0"
+      "Scored": "17",
+      "Allowed": "36",
+      "Diff": "-19",
+      "GB": "2.5"
     },
     {
-      "Guaranteed": "Prime Hoops 6th Gold",
-      "Win": "2",
-      "Loss": "0",
-      "Tie": "0",
-      "Scored": "69",
-      "Allowed": "48",
-      "Diff": "21",
-      "GB": "0"
-    },
-    {
-      "Guaranteed": "Sevens Elite",
-      "Win": "1",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "40",
-      "Allowed": "31",
-      "Diff": "9",
-      "GB": "1"
-    },
-    {
-      "Guaranteed": "Prime Hoops 6th Black",
-      "Win": "1",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "42",
-      "Allowed": "42",
-      "Diff": "0",
-      "GB": "1"
-    },
-    {
-      "Guaranteed": "BTB All Stars",
-      "Win": "0",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "0",
-      "Allowed": "15",
-      "Diff": "-15",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "NTX Raptors",
-      "Win": "0",
-      "Loss": "1",
-      "Tie": "0",
-      "Scored": "23",
-      "Allowed": "38",
-      "Diff": "-15",
-      "GB": "1.5"
-    },
-    {
-      "Guaranteed": "UD Basketball",
+      "Guaranteed": "Goats",
       "Win": "0",
       "Loss": "2",
       "Tie": "0",
-      "Scored": "0",
-      "Allowed": "30",
-      "Diff": "-30",
-      "GB": "2"
+      "Scored": "33",
+      "Allowed": "58",
+      "Diff": "-25",
+      "GB": "2.5"
     }
   ],
   "summer-2026-7th": [
     {
       "Guaranteed": "Sevens Elite",
-      "Win": "1",
+      "Win": "3",
       "Loss": "0",
       "Tie": "0",
-      "Scored": "52",
-      "Allowed": "37",
-      "Diff": "15",
+      "Scored": "99",
+      "Allowed": "54",
+      "Diff": "45",
       "GB": "0"
     },
     {
       "Guaranteed": "Prime Hoops",
       "Win": "1",
-      "Loss": "1",
+      "Loss": "2",
       "Tie": "0",
       "Scored": "36",
-      "Allowed": "27",
-      "Diff": "9",
-      "GB": "0.5"
+      "Allowed": "42",
+      "Diff": "-6",
+      "GB": "2"
     },
     {
       "Guaranteed": "BTB All Stars",
@@ -162,17 +90,7 @@
       "Scored": "0",
       "Allowed": "0",
       "Diff": "0",
-      "GB": "1"
-    },
-    {
-      "Guaranteed": "UD Basketball",
-      "Win": "0",
-      "Loss": "2",
-      "Tie": "0",
-      "Scored": "27",
-      "Allowed": "36",
-      "Diff": "-9",
-      "GB": "1.5"
+      "GB": "2"
     },
     {
       "Guaranteed": "Keller Mavs",
@@ -182,7 +100,17 @@
       "Scored": "37",
       "Allowed": "52",
       "Diff": "-15",
-      "GB": "1.5"
+      "GB": "2.5"
+    },
+    {
+      "Guaranteed": "UD Basketball",
+      "Win": "0",
+      "Loss": "3",
+      "Tie": "0",
+      "Scored": "44",
+      "Allowed": "68",
+      "Diff": "-24",
+      "GB": "3"
     }
   ]
 }
